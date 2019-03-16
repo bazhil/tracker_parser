@@ -1,11 +1,7 @@
 from bs4 import BeautifulSoup
 from pprint import pprint
 import json
-import re
-from htmldom import htmldom
-from lxml2json import convert
 from lxml import etree
-import collections
 
 tracker = 'Трекер.html'
 
